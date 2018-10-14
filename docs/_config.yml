@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+
+title: human10
+description: A real-world human body dataset
+show_downloads: true
+dataset_url: 'https://s3.amazonaws.com/human-10/human10.7z'
+samples_url: 'https://s3.amazonaws.com/human-10/human10-samples.7z'
+github:
+  is_project_page: false
+  zip_url: ''
+  samples_url: ''
