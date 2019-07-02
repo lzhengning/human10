@@ -14,7 +14,7 @@ For each frame, there are **depthmaps** and **masks** of 4 views along with corr
 
 
 ## Referencing the Dataset
-Here are the Bibtex snippets for citing Human10 and our [paper](https://drive.google.com/open?id=1A1k_89MV1l0tYyL8k9FD5xLE333bRY3N) in your work.
+Here are the Bibtex snippets for citing Human10 and our [paper](https://cg.cs.tsinghua.edu.cn/papers/ECCV-2018-reconstruction.pdf) in your work.
 
 ```
 @InProceedings{Cao_2018_ECCV,
