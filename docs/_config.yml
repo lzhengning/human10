@@ -4,6 +4,6 @@ title: Human10
 description: A real-world human body dataset
 show_downloads: true
 dataset_url: 'https://cg.cs.tsinghua.edu.cn/dataset/form.html?dataset=human10'
-samples_url: 'https://s3.amazonaws.com/human-10/human10-samples.7z'
+samples_url: 'https://cg.cs.tsinghua.edu.cn/dataset//human10/human10-samples.7z'
 github:
   is_project_page: false
